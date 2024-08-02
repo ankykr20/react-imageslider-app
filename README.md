@@ -5,6 +5,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 It's a responsive small project named "image slider".It developed using react with some features like indicators and slider(left and right) buttons.
 
 ##Some Image Preview of this project.
+![image1](https://github.com/user-attachments/assets/57388c9d-9f91-45bc-9dba-9d10a50dfb5d)
+
+![image2](https://github.com/user-attachments/assets/67c180a4-c04e-408e-91c9-b0414df0dab3)
+
 
 ###How to run this project locally in any browser.
 
