@@ -2,9 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+It's a responsive small project named "image slider".It developed using react with some features like indicators and slider(left and right) buttons.
+
 ##Some Image Preview of this project.
 
-How to run this project locally in any browser.
+###How to run this project locally in any browser.
+
 NOTE :: Make sure you have node and npm installed. You can check if they are install by running in any these command prompt. node -v npm -v
 
 Step 1 : Download this project in zip file, extract it and open in your favourite IDE.
